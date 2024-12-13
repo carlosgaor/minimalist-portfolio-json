@@ -1,45 +1,56 @@
 {
   "basics": {
-    "name": "Carlos!",
-    "label": "Second-year cross-platform application development student ",
+    "name": "Joaquin!",
+    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
     "image": "/me.webp",
-    "email": "carlos.garciaortega@a.vedrunasevillasj.es",
+    "email": "miduga@gmail.com",
     "phone": "+34 688888888",
     "url": "https://midu.dev",
-    "summary": "Junior programmer yet. I live in Seville, Spain. ",
+    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "Sevilla",
+      "city": "el Prat de Llobregat",
       "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "carlosgor",
-        "url": "https://linkedin.com/in/carlosgor"
+        "username": "midudev",
+        "url": "https://linkedin.com/in/midudev"
       },
       {
         "network": "X",
-        "username": "cgarciao",
-        "url": "https://x.com/cgarcio"
+        "username": "midudev",
+        "url": "https://x.com/midudev"
       },
       {
         "network": "GitHub",
-        "username": "carlosgaor",
-        "url": "https://github.com/carlosgaor"
+        "username": "midudev",
+        "url": "https://github.com/midudev"
       }
     ]
   },
   "work": [
     {
-      "name": "carlos",
+      "name": "midudev",
       "position": "Web programming communicator",
       "url": "https://twitch.tv/midudev",
       "startDate": "2021-01-01",
       "endDate": null,
       "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Adevinta",
+      "position": "Lead Frontend Architect",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2016-06-01",
+      "endDate": "2022-09-01",
+      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
       "highlights": [
         "Started the company"
       ]
@@ -57,10 +68,10 @@
   ],
   "references": [
     {
-      "name": "Carlos García Ortega",
+      "name": "Joaquin Borrego Fernández",
       "type": "Academic Reference",
       "url": "https://twitch.tv/midudev",
-      "position": "Student at IES Vedruna",
+      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
       "contact": [
         "Phone: +34611223345",
         "Email: VY5q8@example.com"
@@ -89,12 +100,12 @@
     ]
   }],
   "education": [{
-    "institution": "Santa Joaquina of Vedruna 's school",
+    "institution": "Universitat Oberta de Catalunya",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Higher technician in Multi-platform application Development.",
+    "area": "Software Engineer",
     "studyType": "Bachelor",
-    "startDate": "2023-09-20",
-    "endDate": "2024-011-28",
+    "startDate": "2003-01-01",
+    "endDate": "2009-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -122,23 +133,23 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Medium",
+      "level": "Master",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Medium",
+      "level": "Master",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
     },
     {
-      "name": "Java",
-      "level": "Junior",
+      "name": "JavaScript",
+      "level": "Master",
       "keywords": [
-        "Class", "Threads", "Fullstack"
+        "Web development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
@@ -146,6 +157,13 @@
       "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
@@ -198,7 +216,7 @@
     },
     {
       "language": "English",
-      "fluency": "Medium"
+      "fluency": "Advanced"
     }
   ],
   "interests": [{
@@ -220,6 +238,17 @@
       "url": "https://mars.codes"
     },
     {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "highlights": [
+        "+1 million visits",
+        "Multilanguage",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://advent.js/dev"
+    },
+    {
       "name": "Codember",
       "isActive": true,
       "description": "Interactive programming game with challenges and secrets",
@@ -228,6 +257,17 @@
         "Challenges for any language"
       ],
       "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "highlights": [
+        "100k monthly visit",
+        "Developed by the community"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
     },
     {
       "name": "Pruebas Técnicas",
@@ -240,6 +280,14 @@
       "url": "https://pruebastecnicas.com",
       "github": "https://github.com/midudev/pruebas-tecnicas"
     },
-    
+    {
+      "name": "miduConf",
+      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "highlights": [
+        "+15k tickets handed over",
+        "+50k live viewers"
+      ],
+      "url": "https://miduconf.com"
+    }
   ]
 }

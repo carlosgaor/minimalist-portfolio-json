@@ -1,45 +1,45 @@
 {
   "basics": {
-    "name": "Joaquin!",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Carlos!",
+    "label": "Second-year cross-platform application development student",
     "image": "/me.webp",
     "email": "miduga@gmail.com",
     "phone": "+34 688888888",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "Junior programmer yet. I live in Seville, Spain.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "city": "Sevilla",
       "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
+        "username": "carlosgor",
         "url": "https://linkedin.com/in/midudev"
       },
       {
         "network": "X",
-        "username": "midudev",
+        "username": "cgarciao",
         "url": "https://x.com/midudev"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "carlosgaor",
+        "url": "https://github.com/carlosgaor"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
+      "name": "carlos",
+      "position": "Computer Technician",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "startDate": "2023-09-27",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "I worked in a family store I was in charge of repairing computer equipment . My role was to provide computer support whether software or hardware.",
       "highlights": [
         "Started the company"
       ]
@@ -100,12 +100,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "Santa Joaquina De Vedruna",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
+    "area": "Higher technician in Multi-platform application Development",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2023-01-01",
+    "endDate": "2024-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
